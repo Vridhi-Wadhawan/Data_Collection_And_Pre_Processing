@@ -1,0 +1,50 @@
+How Tech Helped Levi’s Ride the ‘Baggy Jeans’ Trend
+A new data infrastructure helped Levi’s crunch the numbers on how everyone—not just the TikTok set—might want to go looser these days
+By 
+Isabelle Bousquette
+
+WSJ | CIO Journal
+
+Jan. 27, 2025 6:00 am ET
+
+Levi Strauss knew baggy jeans were a big deal, but its data infrastructure helped the company understand the depth of the trend and move quickly to meet demand. 
+Levi Strauss knew baggy jeans were a big deal, but its data infrastructure helped the company understand the depth of the trend and move quickly to meet demand. Photo: Levi Strauss
+Levi Strauss & Co., making jeans since the 1850s, intuitively knew the baggy fit would catch on with younger shoppers, new to its dungarees. But it took technology to help the company see the roomier fit also would catch on with everyone else. 
+
+“There’s also a whole lot of people that used to wear a 501, and they love their 501s,” Levi’s Chief Digital Officer Jason Gowans said of the company’s classic straight-leg jeans. “But they’re also now leaning into our wider-leg fits. That was something that was at least a little bit of a surprise to us.”
+
+In 2020, Levi’s signed a deal with Google Cloud and began gathering data points from purchases, web-browsing, retail partner sales and its loyalty program into a Google database, and running daily machine-learning algorithms designed to identify and predict purchase trends, said Gowans. For the first time, he said, Levi’s was able to continuously pull together data from 110 countries and 50,000 points of distribution—only 1,100 of which were Levi’s own stores.
+
+Jason Gowans, chief digital officer of Levi Strauss. Photo: Levi Strauss & Co.
+
+Levi’s, which has a global wholesale business, had previously struggled to bring all its data under one tent. Purchase data—a major piece of the profile—was spread across a range of different retail partners of varying sizes and technical capabilities.
+
+Getting numbers from big department stores was straightforward enough, but from a smaller retailer in Indonesia might be difficult, Gowans said. Google helped Levi’s automate the collection of data from those retailers, as well as checking when the information wasn’t arriving on time.
+
+“Being able to comprehensively pull that data together on a continuous basis has been a big reason for why we’ve been able to operate with a bit more agility over the past two years,” Gowans said.
+
+Looser for everyone
+The new data system helped the company understand that baggy and loose silhouettes weren’t just for the TikTok generation—they were for everyone. As a result, Levi’s dove into marketing campaigns like “Live Loose” and began evangelizing on the trendiness of roomier fits to its retail partners. The insight also informed ordering decisions to keep the more capacious fits in stock and influenced future design choices.
+
+The Google initiative helped them understand the scope and scale of the trend—that it went beyond younger women and even encompassed older consumers and men—and quickly move to provide those options, Gowans said. 
+
+“As we introduce looser and baggier fits, we see that demand shifting towards ever more looser, ever more baggier fits,” he said.
+
+On Levi’s latest earnings call in October, CEO Michelle Gass said loose fits were up 15% in the quarter, “reflecting strength across genders and channels.” 
+
+Even Gowans, who went for the slim fit in the past, is now going baggy.
+
+Gleaning directions from the data
+The retail industry as a whole has worked hard over the past few years to get better at collecting and analyzing data to decide what styles and trends to prioritize in future orders and serve to various demographics, said Nikki Baird, vice president of strategy and product at retail technology provider Aptos.
+
+“It’s just been really hard to get that data, to get it by customer and then to pile that all together in a meaningful way,” she said.
+
+Data on web-browsing can be misleading, and purchase data doesn’t always yield insights on how certain demographics are shopping, she said. Gowans said Levi’s is looking at opportunities to expand its data-collecting—currently its loyalty program is the only way it has to separate shoppers by demographic.
+
+For much of its storied past, Levi’s has been “data-rich, but information-poor,” Gowans noted. The 172-year-old company had amassed a trove of data—receipts from purchases made in the days of horses and buggies, and a digitized archive with information on the placement of pockets on jeans in the 1970s, for starters. But the company struggled to muster a continuous flow of information useful to predicting trends.
+
+In the past few years, the company has developed a data infrastructure in which the majority of its analytics resides in Google’s ecosystem. Besides its Cloud storage, that includes its BigQuery data warehouse, the governance tool Dataplex, various machine-learning tools and its Analytics Hub.
+
+The new data capability is part of a broader effort at Levi’s to transform the way jeans are designed, shipped and sold, from the use of 3-D renderings of tops to equipping store associates with generative AI-powered tools that let them ask questions about the qualities of various types of denim.
+
+“Ultimately the goal is financial benefit, but it really is grounded in the customer: making sure that we’re relevant, making sure that we’ve got that relevant flow of newness—that’s really what’s motivating all this work,” Gowans said.
